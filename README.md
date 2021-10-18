@@ -30,5 +30,5 @@
 
 ## Resultados
 
-- Movie Cards Library -> ** Movie Library: ** [Back-end](https://github.com/offpepe/Movie-Library-API) | [Front-end](https://github.com/offpepe/movie-library) | [App](https://offpepe.github.io/movie-library/) -> ->
+- Movie Cards Library -> **Movie Library:** [Back-end](https://github.com/offpepe/Movie-Library-API) | [Front-end](https://github.com/offpepe/movie-library) | [App](https://offpepe.github.io/movie-library/) -> ->
 _foram utilizadas as tecnologias React, NodeJS, Express, Multer, Multer-s3, aws bucket, JWT, Dynos do Heroku para deploy do back e GH pages para o deploy do front_
